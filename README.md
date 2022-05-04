@@ -1,2 +1,2 @@
 # Sort
-All sort algorithms (bubble, selection, insert,...)
+All sort algorithms (bubble, selection, insert, ...)
